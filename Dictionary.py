@@ -2,6 +2,7 @@ n=int(input("Number of students: "))
 dic={}
 list=[]
 list2=[]
+var = ''
 for i in range(n):
     a=input("Name:")
     list2 = a.split(" ")
